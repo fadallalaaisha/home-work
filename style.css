@@ -1,0 +1,31 @@
+
+h1{
+    color: orange;
+}
+#tech{
+color: pink;
+}
+.women{
+    color: blue;
+}
+.box{
+    border: 2px;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+    border-style: double;
+    color: crimson;
+}
+body{
+    background-color: burlywood;
+ 
+
+        border: 20px solid blue;
+        padding: 20px;
+        margin: 20px;
+        width: 1150px;
+        border-style: double;
+        
+       
+    
+}
